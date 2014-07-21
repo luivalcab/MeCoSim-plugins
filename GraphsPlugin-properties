@@ -1,0 +1,9 @@
+plugin-graphs = mecosim.plugins.graphsPlugin.GraphViewer
+pluginname-graphs = Graph Viewer
+pluginmethod-graphs = entryPoint
+pluginorder-graphs = 5
+pluginjar-graphs-1 = GraphsPlugin.jar
+pluginparam-graphs-1 = numver
+pluginparam-graphs-2 = graph
+pluginparam-graphs-3 = twocolor
+

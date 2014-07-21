@@ -1,0 +1,6 @@
+
+plugin-haskell = mecosim.plugins.languagesIntegrationPlugin.haskell.HaskellInterpreter
+pluginname-haskell = Haskell Interpreter
+pluginmethod-haskell = main
+pluginjar-haskell-1 = LanguagesIntegrationPlugin.jar
+pluginorder-haskell = 10

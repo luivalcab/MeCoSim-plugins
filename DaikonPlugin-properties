@@ -1,0 +1,7 @@
+
+plugin-daikon = mecosim.plugins.daikonPlugin.Main
+pluginname-daikon = Daikon
+pluginmethod-daikon = pluginHook
+pluginorder-daikon = 8
+pluginparam-daikon-1 = userfiles/daikon-files.txt
+pluginjar-daikon-1 = DaikonPlugin.jar

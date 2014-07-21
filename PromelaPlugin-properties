@@ -1,0 +1,9 @@
+
+plugin-promela = mecosim.plugins.promela.PromelaJFrame
+pluginname-promela = Promela
+pluginmethod-promela = openPromelaJFrame
+pluginorder-promela = 9
+pluginparam-promela-1 = SPLIT
+pluginparam-promela-2 = promela-file.pml
+pluginparam-promela-3 = spin-output-file.txt
+pluginjar-promela-1 = PromelaPlugin.jar

@@ -1,0 +1,6 @@
+
+plugin-SATplugin = mecosim.plugins.SATPlugin.SATFrame
+pluginname-SATplugin = SAT plugin
+pluginmethod-SATplugin = main
+pluginorder-SATplugin = 17
+pluginjar-SATplugin-1 = SATPlugin.jar

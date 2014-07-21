@@ -1,0 +1,13 @@
+plugin-sendmail = mecosim.plugins.processes.DesktopRunner
+pluginname-sendmail = Email development team
+pluginmethod-sendmail = email
+pluginorder-sendmail = 6
+pluginjar-sendmail-1 = ProcessesPlugin.jar
+pluginparam-sendmail-1 = lvalencia@us.es
+
+plugin-browsemecosim = mecosim.plugins.processes.DesktopRunner
+pluginname-browsemecosim = Visit MeCoSim Site
+pluginmethod-browsemecosim = browse
+pluginorder-browsemecosim = 7
+pluginjar-browsemecosim-1 = ProcessesPlugin.jar
+pluginparam-browsemecosim-1 = http://www.p-lingua.org/mecosim/

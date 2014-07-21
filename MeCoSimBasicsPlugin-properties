@@ -1,0 +1,24 @@
+
+plugin-plinguaeditor = mecosim.plugins.basics.PLinguaEditor
+pluginname-plinguaeditor = Edit P-lingua File
+pluginmethod-plinguaeditor = openPLinguaFile
+pluginorder-plinguaeditor = 1
+pluginjar-plinguaeditor-1 = MeCoSimBasicsPlugin.jar
+
+plugin-alphabetviewer = mecosim.plugins.basics.AlphabetViewer
+pluginname-alphabetviewer = Alphabet Viewer
+pluginmethod-alphabetviewer = visualizeAlphabet
+pluginorder-alphabetviewer = 2
+pluginjar-alphabetviewer-1 = MeCoSimBasicsPlugin.jar
+
+plugin-membranestructureviewer = mecosim.plugins.basics.MembraneStructureViewer
+pluginname-membranestructureviewer = Membrane Structure Viewer
+pluginmethod-membranestructureviewer = visualizeMembraneStructure
+pluginorder-membranestructureviewer = 3
+pluginjar-membranestructureviewer-1 = MeCoSimBasicsPlugin.jar
+
+plugin-multisetsviewer = mecosim.plugins.basics.MembraneStructureViewer
+pluginname-multisetsviewer = Multisets Viewer
+pluginmethod-multisetsviewer = visualizeMultiSets
+pluginorder-multisetsviewer = 4
+pluginjar-multisetsviewer-1 = MeCoSimBasicsPlugin.jar
