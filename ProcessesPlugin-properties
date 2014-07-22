@@ -6,8 +6,15 @@ pluginjar-sendmail-1 = ProcessesPlugin.jar
 pluginparam-sendmail-1 = lvalencia@us.es
 
 plugin-browsemecosim = mecosim.plugins.processes.DesktopRunner
-pluginname-browsemecosim = Visit MeCoSim Site
+pluginname-browsemecosim = Visit MeCoSim doc
 pluginmethod-browsemecosim = browse
 pluginorder-browsemecosim = 7
 pluginjar-browsemecosim-1 = ProcessesPlugin.jar
-pluginparam-browsemecosim-1 = http://www.p-lingua.org/mecosim/
+pluginparam-browsemecosim-1 = http://www.p-lingua.org/mecosim/doc/
+
+plugin-openpli = mecosim.plugins.processes.DesktopRunner
+pluginname-openpli = Open P-Lingua file externally
+pluginmethod-openpli = open
+pluginorder-openpli = 8
+pluginjar-openpli-1 = ProcessesPlugin.jar
+pluginparam-openpli-1 = -PLI
